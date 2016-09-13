@@ -1,1 +1,1 @@
-Boo :ghost: :ghost:!!!
+:ghost: Boo :ghost:!!!
