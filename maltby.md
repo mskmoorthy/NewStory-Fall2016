@@ -1,5 +1,5 @@
 Sean Maltby
 
-seanmaltby
+Slack: seanmaltby
 
-smaltby
+Github: smaltby
